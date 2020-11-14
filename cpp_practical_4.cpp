@@ -1,3 +1,4 @@
+//c++ program to check wether the number is even or odd
 #include<iostream>
 using namespace std;
 int main(){
